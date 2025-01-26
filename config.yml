@@ -1,0 +1,5 @@
+StockData:
+  start_day: '2020-01-01'
+  end_day: '2024-12-31'
+  number_of_stock: 5
+  save_path: 'D:/WOW/wow_data/stock_data'
